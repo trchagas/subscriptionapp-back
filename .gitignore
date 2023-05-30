@@ -1,0 +1,9 @@
+*pyc
+*pyo
+_.py
+venv/
+.env
+helpers/tmpPath/fonts/
+node_modules/
+
+
